@@ -1,3 +1,3 @@
-# DevopsCode
+# Devops Project
 
-Project to pratice CI/CD
+Project to practice CI/CD
