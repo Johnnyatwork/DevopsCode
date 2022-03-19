@@ -22,6 +22,6 @@ app.listen(process.env.PORT, (errors) => {
     if (errors) {
       console.log(errors);
     } else {
-      console.log('NUS Money Server started on port',process.env.PORT),' version 1.0';
+      console.log(`NUS Money Server started on port ${process.env.PORT} version 1.0` );
     }
   });
