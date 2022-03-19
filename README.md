@@ -14,3 +14,8 @@ Using workflows in GitHub's Repo to do the following each time someone commits a
 - Screen Shot of Telegram msgs
 <img src="https://github.com/Johnnyatwork/DevopsCode/blob/master/images/telegramsnap.PNG" width="200" height="200" />
 
+### Deploy App to Heroku using another workflow from marketplace (https://github.com/marketplace/actions/deploy-to-heroku)
+- Added Heroku API KEY and EMAIL int GitHub Secrets
+- Created deploy.yml with the action
+- Screen Shot of Heroku Acitivy
+<img src="https://github.com/Johnnyatwork/DevopsCode/blob/master/images/herokusnap.PNG" width="200" height="200" />
