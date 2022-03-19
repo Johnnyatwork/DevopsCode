@@ -12,5 +12,5 @@ Using workflows in GitHub's Repo to do the following each time someone commits a
 - Created a NUSTeam1 bot get the Authorization token ( `https://api.telegram.org/bot<token>/getMe` )
 - Telegram Token and Telgram Chat Id are stored in GitHub Secrets
 - Screen Shot of Telegram msgs
-![Screen Grab](https://github.com/Johnnyatwork/DevopsCode/blob/master/images/telegramsnap.PNG)
+<img src="https://github.com/Johnnyatwork/DevopsCode/blob/master/images/telegramsnap.PNG" width="200" height="200" />
 
