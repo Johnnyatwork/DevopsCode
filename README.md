@@ -17,5 +17,5 @@ Using workflows in GitHub's Repo to do the following each time someone commits a
 ### Deploy App to Heroku using another workflow from marketplace (https://github.com/marketplace/actions/deploy-to-heroku)
 - Added Heroku API KEY and EMAIL int GitHub Secrets
 - Created deploy.yml with the action
-- Screen Shot of Heroku Acitivy
+- Screen Shot of Heroku Acitivy ( https://nusdevops.herokuapp.com )
 <img src="https://github.com/Johnnyatwork/DevopsCode/blob/master/images/herokusnap.png" width="200" height="200" />
